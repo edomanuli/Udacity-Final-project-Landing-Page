@@ -9,4 +9,4 @@ There are four sections which include:
 - Home
 - Pricing
 - Testimonials
-- Contact Us# Project Landing Page
+- Contact Us
